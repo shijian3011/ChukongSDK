@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "5.0"
 
   s.name         = 'ChukongSDK'
-  s.version      = '5.1.3'
+  s.version      = '5.2.0'
   s.license      =  { :type => 'MIT', :file => 'LICENSE' }
   s.homepage     = 'https://github.com/shijian3011/ChukongSDK'
   s.authors      =  { 'Health Shi' => 'shijian3011@qq.com' }
