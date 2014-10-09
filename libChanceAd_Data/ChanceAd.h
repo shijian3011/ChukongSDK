@@ -14,11 +14,10 @@
 #import "CSInterstitial.h"
 #import "CSMoreGame.h"
 #import "CSNativeMoreGame.h"
-#import "CSAppZone.h"
 
 
 // SDK_Version仅供参考，以[ChanceAd sdkVersion];得到的版本号为准
-#define SDK_Version  @"5.1.0"
+#define SDK_Version  @"5.2.0"
 
 
 @interface ChanceAd : NSObject

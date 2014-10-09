@@ -10,7 +10,7 @@
 #import "CSADRequest.h"
 #import "CSRequestError.h"
 
-#define CSBannerSize_iPhone   CGSizeMake(320.0f, 50.0f)
+#define CSBannerSize_iPhone   CGSizeMake(ScreenSize.width, 50.0f)
 #define CSBannerSize_iPad     CGSizeMake(728.0f, 90.0f)
 
 // Banner加载完成
